@@ -1,4 +1,4 @@
-package com.dicoding.latihandicoding1;
+package com.dicoding.HelloWorld;
 
 import org.junit.Test;
 

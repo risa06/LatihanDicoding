@@ -1,4 +1,4 @@
-package com.dicoding.latihandicoding1;
+package com.dicoding.HelloWorld;
 
 import android.content.Context;
 
