@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.dicoding.latihandicoding1">
+    package="com.prakpapb1.HelloWorld">
 
     <application
         android:allowBackup="true"
@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme"
         android:fullBackupContent="@xml/backup_descriptor"
         tools:ignore="AllowBackup">
-        <activity android:name="com.dicoding.latihandicoding1.MainActivity">
+        <activity android:name="com.prakpapb1.HelloWorld.MainActivity">
             <intent-filter tools:ignore="ExtraText">
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,4 +1,4 @@
-package com.dicoding.HelloWorld;
+package com.prakpapb1.HelloWorld;
 
 import org.junit.Test;
 
